@@ -1,1 +1,1 @@
-# timer
+Just a simple timer to get started in react
